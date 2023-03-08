@@ -1,3 +1,3 @@
 # forktestFirst
 
-This is the orifinal repo
+This is the original repo
